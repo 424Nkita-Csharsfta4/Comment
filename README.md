@@ -1,4 +1,6 @@
-# cofe-starbaks-copy-vue3
+# Comments vue3 Composition
+Best generate icons user https://avatars.dicebear.com/
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
