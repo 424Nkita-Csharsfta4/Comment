@@ -1,6 +1,8 @@
 # Comments vue3 Composition
 Best generate icons user https://avatars.dicebear.com/
 
+![image](https://user-images.githubusercontent.com/103760832/198881316-0225a774-1aba-4f0f-ae20-7f7db9f4daa4.png)
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
